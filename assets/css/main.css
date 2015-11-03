@@ -2512,7 +2512,7 @@
 			button.icon:before,
 			.button.icon:before {
 				color: #a8b0b3;
-				margin-right: 0.5em;
+				margin-right: 0;
 			}
 
 		input[type="submit"].fit,
@@ -3000,7 +3000,7 @@
 				input[type="button"].icon,
 				button.icon,
 				.button.icon {
-					padding-left: 0;
+					padding: 0 20px;
 				}
 
 		/* Main */
